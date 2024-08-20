@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="95592a40-f6c7-4658-93b4-65f548099b0e" name="Changes" comment="second commit">
-      <change beforePath="$PROJECT_DIR$/src/dominio/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/dominio/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/dominio/bootcamp/courses/Atribute.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/dominio/bootcamp/courses/Atribute.java" afterDir="false" />
-    </list>
+    <list default="true" id="95592a40-f6c7-4658-93b4-65f548099b0e" name="Changes" comment="second commit" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
