@@ -29,4 +29,11 @@ public class Teacher {
     public void setName(String name) {
         this.name = name;
     }
+    public void addCourse(Course course){courses.add(course);}
+    public void removeCourse(Course course){courses.remove(course);}
+    public void getStudentsByCourse(Course course){course.showStudents();}
+    public void showCourses(){ courses.getClass().getName();for (Course c : courses){
+        System.out.println(c.getName());
+        }
+    }
 }

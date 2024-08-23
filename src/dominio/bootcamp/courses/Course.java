@@ -40,7 +40,7 @@ public class Course {
     public void removeStudent(Student student){
         students.remove(student);
     }
-    public void addTeacher(Teacher teacher){teachers.add(teacher);}
+    public void addTeacher(Teacher teacher){teachers.add(teacher);teacher.addCourse(this);}
     public void removeTeacher(Teacher teacher){teachers.remove(teacher);}
 
     public void showStudents(){
@@ -54,5 +54,29 @@ public class Course {
     }
     public void setName(String name){
         this.atributes.name = name;
+    }
+
+    public Set<Student> getStudents() {
+        return students;
+    }
+
+    public void setStudents(Set<Student> students) {
+        this.students = students;
+    }
+
+    public Set<Teacher> getTeachers() {
+        return teachers;
+    }
+
+    public void setTeachers(Set<Teacher> teachers) {
+        this.teachers = teachers;
+    }
+
+    public Set<Dicipline> getDiciplines() {
+        return diciplines;
+    }
+
+    public void setDiciplines(Set<Dicipline> diciplines) {
+        this.diciplines = diciplines;
     }
 }

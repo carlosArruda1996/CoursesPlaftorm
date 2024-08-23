@@ -5,38 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="95592a40-f6c7-4658-93b4-65f548099b0e" name="Changes" comment="second commit">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DesafioDioPOO.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dominio/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dominio/bootcamp/courses/Atribute.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dominio/bootcamp/courses/Content.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dominio/bootcamp/courses/Course.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dominio/bootcamp/courses/Dicipline.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dominio/bootcamp/courses/LiveMentoring.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dominio/classroom/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dominio/classroom/Teacher.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CoursesPlaftorm.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DesafioDioPOO/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DesafioDioPOO/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DesafioDioPOO/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DesafioDioPOO/.idea/uiDesigner.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DesafioDioPOO/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DesafioDioPOO/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DesafioDioPOO/DesafioDioPOO.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DesafioDioPOO/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DesafioDioPOO/src/dominio/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DesafioDioPOO/src/dominio/bootcamp/courses/Atribute.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DesafioDioPOO/src/dominio/bootcamp/courses/Content.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DesafioDioPOO/src/dominio/bootcamp/courses/Course.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DesafioDioPOO/src/dominio/bootcamp/courses/Dicipline.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DesafioDioPOO/src/dominio/bootcamp/courses/LiveMentoring.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DesafioDioPOO/src/dominio/classroom/Student.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DesafioDioPOO/src/dominio/classroom/Teacher.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dominio/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/dominio/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dominio/bootcamp/courses/Course.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/dominio/bootcamp/courses/Course.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dominio/classroom/Teacher.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/dominio/classroom/Teacher.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,6 +26,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;carlosArruda1996&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/carlosArruda1996/CoursesPlaftorm&quot;,
+    &quot;accountId&quot;: &quot;de708588-e913-4421-aa8d-cbdea3f2da4d&quot;
+  }
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 6
 }</component>
@@ -65,24 +49,18 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "Application.Main.executor": "Run",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main",
-    "kotlin-language-version-configured": "true",
-    "onboarding.tips.debug.path": "C:/Users/Carlos Arruda/IdeaProjects/DesafioDioPOO/src/Main.java"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/10/IdeaProjects/CoursesPlaftorm&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/Carlos Arruda/IdeaProjects/DesafioDioPOO/src/Main.java&quot;
   }
-}]]></component>
-  <component name="SharedIndexes">
-    <attachedChunks>
-      <set>
-        <option value="jdk-20.0.2-azul-20.0.2-4caba194b151-eb49e076" />
-      </set>
-    </attachedChunks>
-  </component>
+}</component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
