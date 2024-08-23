@@ -2,6 +2,7 @@ package dominio;
 
 import dominio.bootcamp.courses.Atribute;
 import dominio.bootcamp.courses.Course;
+import dominio.bootcamp.courses.Dicipline;
 import dominio.classroom.Student;
 import dominio.classroom.Teacher;
 
@@ -49,5 +50,7 @@ public class Main {
         System.out.println("-----------");
 
         angular.showStudents();
+
+        angular.addDiciplines(new Dicipline("Estrutura de dados"));
     }
 }
