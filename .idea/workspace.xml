@@ -4,7 +4,40 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="95592a40-f6c7-4658-93b4-65f548099b0e" name="Changes" comment="second commit" />
+    <list default="true" id="95592a40-f6c7-4658-93b4-65f548099b0e" name="Changes" comment="second commit">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DesafioDioPOO.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dominio/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dominio/bootcamp/courses/Atribute.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dominio/bootcamp/courses/Content.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dominio/bootcamp/courses/Course.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dominio/bootcamp/courses/Dicipline.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dominio/bootcamp/courses/LiveMentoring.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dominio/classroom/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dominio/classroom/Teacher.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CoursesPlaftorm.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DesafioDioPOO/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DesafioDioPOO/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DesafioDioPOO/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DesafioDioPOO/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DesafioDioPOO/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DesafioDioPOO/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DesafioDioPOO/DesafioDioPOO.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DesafioDioPOO/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DesafioDioPOO/src/dominio/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DesafioDioPOO/src/dominio/bootcamp/courses/Atribute.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DesafioDioPOO/src/dominio/bootcamp/courses/Content.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DesafioDioPOO/src/dominio/bootcamp/courses/Course.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DesafioDioPOO/src/dominio/bootcamp/courses/Dicipline.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DesafioDioPOO/src/dominio/bootcamp/courses/LiveMentoring.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DesafioDioPOO/src/dominio/classroom/Student.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DesafioDioPOO/src/dominio/classroom/Teacher.java" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -34,10 +67,11 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
     "Application.Main.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "",
+    "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
     "onboarding.tips.debug.path": "C:/Users/Carlos Arruda/IdeaProjects/DesafioDioPOO/src/Main.java"
   }
@@ -86,6 +120,7 @@
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="second commit" />
     <option name="LAST_COMMIT_MESSAGE" value="second commit" />
   </component>
